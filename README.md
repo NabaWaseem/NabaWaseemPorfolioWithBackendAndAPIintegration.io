@@ -6,7 +6,7 @@ A personal portfolio website built with **HTML, CSS, and JavaScript**. It showca
 
 ## 🚀 Live Demo
 
-🔗 **View Live Demo:*https://nabawaseem.github.io/NabaWaseemPorfolioWithBackendAndAPIintegration.io/*  
+🔗 **View Live Demo: *https://nabawaseem.github.io/NabaWaseemPorfolioWithBackendAndAPIintegration.io/*  
 **
 
 ---
